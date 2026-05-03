@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+# Ofir Even
+**CISO · Cybersecurity Architect**
+20 years from the wire to the board.
+[ofireven.com](https://ofireven.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ofirev)
+</div>
 
-<!--
-**ofireven-sec/ofireven-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Security practitioner, not a developer.
+The repos here are tools I use in the field - M365 posture assessments, cloud security reviews, firewall rule auditing, DFIR, and detection engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Areas**
+- Network Security & Firewall Architecture - Fortinet, Checkpoint, Palo Alto, Cisco ASA
+- Cloud Security Posture - M365, Azure, Entra ID
+- Detection Engineering & SOC Oversight
+- CISO Advisory - banking, insurance, regulated sectors (IL · EU)
