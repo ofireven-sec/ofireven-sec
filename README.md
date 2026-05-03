@@ -1,6 +1,6 @@
 <div align="center">
 # Ofir Even
-**CISO · Cybersecurity Architect**
+<B>CISO · Cybersecurity Architect</B>
 20 years from the wire to the board.
 [ofireven.com](https://ofireven.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ofirev)
 </div>
